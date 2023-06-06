@@ -1,5 +1,8 @@
 projects
 .*/
+programs/python-concurrency/incoming
+programs/python-concurrency/outgoing
+programs/python-concurrency/log.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
